@@ -6,3 +6,4 @@ This repository contains my solutions and projects from my journey through Angel
 -  Day 2 completed
 -  Day 3 completed
 -  Day 4 completed
+-  Day 5 completed
