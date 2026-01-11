@@ -11,7 +11,7 @@ cleaner and easier to maintain.
 - Parameters and arguments
 - Code blocks and indentation
 
-Some exercises from this day were completed using **Reeborg’s World**,which is an online environment and cannot be run locally.
+Project project from this day was completed using **Reeborg’s World**,which is an online environment and cannot be run locally.
 
 ## How to Run
 ```bash
