@@ -1,4 +1,4 @@
-# Day 6 – Functions & Code Blocks
+# Day 6 – Functions & Code Blocks 🧩
 
 ## Project Description
 This day focuses on understanding how functions work in Python.
@@ -11,7 +11,7 @@ cleaner and easier to maintain.
 - Parameters and arguments
 - Code blocks and indentation
 
-Some exercises from this day were completed using **Reeborg’s World**, which is an online environment and cannot be run locally.
+Some exercises from this day were completed using **Reeborg’s World**,which is an online environment and cannot be run locally.
 
 ## How to Run
 ```bash
