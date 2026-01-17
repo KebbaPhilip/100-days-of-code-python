@@ -11,5 +11,6 @@ This repository contains the daily projects from my journey through Angela Yu's 
 -  Day 7 completed
 -  Day 8 completed
 -  Day 9 completed
--  Day 10 complete
--  Day 11 complete
+-  Day 10 completed
+-  Day 11 completed
+-  Day 12 completed
