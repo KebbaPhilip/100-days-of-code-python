@@ -1,5 +1,5 @@
 # 100-days-of-code-python
-This repository contains the daily projects from my journey through Angela Yu's 100 Days of Code: Python Bootcamp
+This repository contains the daily projects from my journey through Angela Yu's 100 Days of Code Python Bootcamp
 
 ## Progress
 -  Day 1 completed
