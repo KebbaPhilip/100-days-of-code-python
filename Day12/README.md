@@ -7,8 +7,7 @@
 - Game loop logic
 
 ## Project Description
-The project is a  command-line number guessing game where the user selects a difficulty
-level. The program limits attempts based on difficulty and provides feedback for each guess.
+The project is a  command-line number guessing game where the user selects a difficulty level. The program limits attempts based on difficulty and provides feedback for each guess.
 
 ## How to Run
 ```bash
