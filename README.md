@@ -22,3 +22,4 @@ This repository contains the daily projects from my journey through Angela Yu's 
 - Day 16 completed
 - Day 17 completed
 - Day 18 completed
+- Day 19 completed
