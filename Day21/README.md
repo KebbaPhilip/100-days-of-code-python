@@ -3,7 +3,7 @@
 ## Project Description
 
 This project completes the Snake Game by adding food generation, scoring,
-wall collision detection, and self-collision logic.
+wall collision detection, and self collision logic.
 
 ## Concepts Learned
 
